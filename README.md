@@ -9,3 +9,4 @@ developer - https://t.me/profcodes
 # tiktok mass report
 # tiktok ban tool
 # tiktok ban tool
+# tiktok report ban
